@@ -1,9 +1,8 @@
 # Hi there, I'm Wiktor! 👋
 
-### 🎯 Looking for an Internship in IT, R&D or Embedded Systems
+### 🎯 Looking for an Internship in IT, R&D 
 
-I am an ambitious and motivated AGH student combining knowledge in programming, electronics, and
-networking with practical engineering skills. I am open to new opportunities and currently seeking an
+I am an ambitious and motivated **Electronics & Telecommunications student at AGH University**. My profile combines software development, hardware engineering, and network configuration. I am looking to apply my technical skills in a professional environment. I am open to new opportunities and currently seeking an
 internship in IT or R&D.
 
 ---
@@ -16,8 +15,9 @@ internship in IT or R&D.
 
 ---
 
+
 ### 📫 Contact Me
-* **LinkedIn:** (https://www.linkedin.com/in/wiktor-baran-6308bb345/)
+* **LinkedIn:** https://www.linkedin.com/in/wiktor-baran-6308bb345/
 * **Email:** wiktorbaran505@gmail.com
 * **Location:** Cracow, Poland
 
