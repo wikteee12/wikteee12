@@ -19,7 +19,7 @@ internship in IT or R&D.
 ### 📫 Contact Me
 * **LinkedIn:** https://www.linkedin.com/in/wiktor-baran-6308bb345/
 * **Email:** wiktorbaran505@gmail.com
-* **Location:** Cracow, Poland
+* **Location:** Kraków (Krakow), Poland
 
 ---
 *Feel free to explore my repositories! I am open to new opportunities and ready to contribute to innovative R&D projects.*
