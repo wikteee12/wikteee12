@@ -12,6 +12,8 @@ internship in IT or R&D.
 * **[Morse Code Receiver](https://github.com/wikteee12/Flashlight-Morse-Code-Receiver-FRDM-KL05Z)** – Real-time optical decoder using ARM KL05Z, ADC, and PIT timers.
 * **[Weather Station](https://github.com/wikteee12/Weather-Station-With-Data-Presentation-ATmega328PB-Xplained-Mini)** – Sensor data acquisition system with a dedicated C++/CLI desktop visualizer.
 * **[Shopping Cart Simulator](https://github.com/wikteee12/Shopping-Cart-Simulator)** – Object-oriented application demonstrating C++ logic and data management.
+* **[Distributed Data Acquisition System](https://github.com/wikteee12/Distributed-Data-Acquisition-System)** – Network-based data collection system using UDP and Multicast Discovery for real-time station monitoring.
+
 
 ---
 
